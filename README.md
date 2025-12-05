@@ -12,5 +12,5 @@
 * JONATHAN ORDOÑEZ 
 * BERTHA CORAL 
 
-#### REPOSITORIO: 
+#### REPOSITORIO: [GITHUB](https://github.com/j3881707-pixel/Solvmetria-app)
 #### PAGINA WEB: [SOLVMETRIA](https://solvmetria-app-62zn8juhw6qw7r6evjoamb.streamlit.app/)
